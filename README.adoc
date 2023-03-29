@@ -1,0 +1,6 @@
+# TP2GPO
+
+Training SAE, le repo gitHub ou l'on s'entraine à utliser l'option Projets, avec les issues ainsi que les milstones
+
+
+image::GanttTp1.jpg[]
